@@ -1,0 +1,1 @@
+main = print =<< (-) <$> readLn <*> readLn
